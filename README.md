@@ -35,9 +35,9 @@ The game continues until the second player guesses the word correctly or exhaust
 ## COMO JOGAR? / HOW TO PLAY?
 
 1. **Compilação**: Compile o código usando um compilador C, como `gcc`:
-   ```bash
-   gcc forca.c -o forca
-   ```
+```bash
+gcc forca.c -o forca
+```
 2. **Execução**: Execute o programa gerado:
   ```bash
   ./forca
