@@ -56,7 +56,7 @@ Instruções:
   ```bash
   gcc forca.c -o hangman
   ```
-2. *Execution*: Run the generated program:
+2. **Execution**: Run the generated program:
   ```bash
   ./hangman
   ```
@@ -92,9 +92,13 @@ The code is organized into main functions:
 
 ## MELHORIAS FUTURAS / FUTURE IMPROVEMENTS
 
+Algumas melhorias futuras para o código seriam:
+
 - **Interface Gráfica**: Adicionar uma interface gráfica simples para tornar o jogo mais atraente.
 - **Modo Single Player**: Implementar um modo onde o computador escolhe a palavra aleatoriamente de uma lista predefinida.
 - **Dificuldade**: Adicionar níveis de dificuldade, variando o número de tentativas ou o tamanho das palavras.
+
+Some future improvements to the code would be:
 
 - **Graphical Interface**: Add a simple graphical interface to make the game more visually appealing.
 - **Single Player Mode**: Implement a mode where the computer randomly selects a word from a predefined list.
